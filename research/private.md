@@ -13,6 +13,8 @@ Analysis of the `private` property
 
 ### npm
 
+- The `private` property is supported by npm.<sup>[1]</sup>
+
 ## Sources
 
 1. [npm `private` field documentation][1]
