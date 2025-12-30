@@ -15,6 +15,10 @@ Analysis of the `private` property
 
 - The `private` property is supported by npm.<sup>[1]</sup>
 
+### pnpm, vlt, yarn, etc.
+
+- The `private` property is also supported by pnpm, vlt, yarn, etc., but they do not provide any documentation for it.
+
 ## Sources
 
 1. [npm `private` field documentation][1]
