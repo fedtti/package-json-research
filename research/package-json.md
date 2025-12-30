@@ -3,8 +3,8 @@
 ## Property Research Directory
 
 - [`"dependencies"`][dependencies]
-  - [`"devDependencies"`][dependencies]
-  - [`"peerDependencies"`][dependencies]
+- [`"devDependencies"`][dependencies]
+- [`"peerDependencies"`][dependencies]
 - [`"name"`][name]
 - [`"private"`][private]
 
